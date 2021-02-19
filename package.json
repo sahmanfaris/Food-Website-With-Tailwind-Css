@@ -1,0 +1,26 @@
+{
+  "name": "Food-Website-With-Tailwind-Css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahmanfaris/Food-Website-With-Tailwind-Css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahmanfaris/Food-Website-With-Tailwind-Css/issues"
+  },
+  "homepage": "https://github.com/sahmanfaris/Food-Website-With-Tailwind-Css#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3"
+  }
+}
